@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chasingclicks-dev-214650-authRole",
+      "UnauthRoleArn": "arn:aws:iam::290816274338:role/amplify-chasingclicks-dev-214650-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::290816274338:role/amplify-chasingclicks-dev-214650-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-chasingclicks-dev-214650-deployment",
+      "UnauthRoleName": "amplify-chasingclicks-dev-214650-unauthRole",
+      "StackName": "amplify-chasingclicks-dev-214650",
+      "StackId": "arn:aws:cloudformation:us-west-1:290816274338:stack/amplify-chasingclicks-dev-214650/3567e530-d9b6-11ed-a089-02c9b8abcb89",
+      "AmplifyAppId": "d1chr4hycvmc44"
+    }
+  }
+}
