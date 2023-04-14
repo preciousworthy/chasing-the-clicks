@@ -6,7 +6,7 @@ function Counter() {
 
      
     return (
-        <div>
+        <div className='counterDiv'>
             <button className="button" onClick={() => setCounter(counter + 1)}>Click Here!</button>
             <p>The button has been clicked {counter} times!</p>
             <button className="button" onClick={() => setCounter(0)}>Reset Counter</button>

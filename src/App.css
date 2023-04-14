@@ -1,32 +1,33 @@
 * {
-  background-color: #282c34;
+  background-color: rgba(255, 246, 223, 1);
   justify-content: center;
-  
 }
 
 .App {
   margin: auto;
+  padding: 0;
   text-align: center;
   min-height: auto;
   max-width: 800px;
-  background-color: #282c34;
-  font-size: calc(10px + 2vmin);
-  color: white;
-  
+  background-color: rgba(255, 246, 223, 1);
+  font-family: 'Courier New';
+  color: black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.counterDiv {
+  padding: 20px;
 }
 
-.App-header {
+button {
+  color: black;
+  height: 50px;
+  border-radius: 10px;
+  font-family: 'Courier New'
 }
 
-.App-link {
-  color: #61dafb;
+button:hover {
+  background: rgba(252, 204, 3, 1)
 }
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
