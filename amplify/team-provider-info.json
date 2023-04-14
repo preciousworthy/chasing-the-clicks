@@ -10,6 +10,14 @@
       "StackName": "amplify-chasingclicks-dev-214650",
       "StackId": "arn:aws:cloudformation:us-west-1:290816274338:stack/amplify-chasingclicks-dev-214650/3567e530-d9b6-11ed-a089-02c9b8abcb89",
       "AmplifyAppId": "d1chr4hycvmc44"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1chr4hycvmc44",
+          "type": "manual"
+        }
+      }
     }
   }
 }
